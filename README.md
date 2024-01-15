@@ -24,6 +24,7 @@ Software RAID level optional
 Bandwidth: 1Gb/s
 
 ⚡2) SERVER 2
+
 💬 AMD Ryzen™ 7 3700X
 Octa-Core
 Matisse (Zen2)
