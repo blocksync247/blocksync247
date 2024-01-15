@@ -1,4 +1,4 @@
-👋 BlockSync is a Trusted PoS Validator | Node Provider 👋
+👋 **BlockSync is a Trusted PoS Validator | Node Provider** 👋
 
 🌱 Website: ​https://block-sync.com
 
@@ -6,7 +6,7 @@
 
 ⚡⚡MY HETZNER DEDICATED SERVER:⚡⚡
 
-⚡1) SERVER 1
+⚡**1) SERVER 1**
 
 💬 Intel® Xeon® W-2145
 Octa-Core
@@ -23,7 +23,7 @@ Software RAID level optional
 
 Bandwidth: 1Gb/s
 
-⚡2) SERVER 2
+⚡**2) SERVER 2**
 
 💬 AMD Ryzen™ 7 3700X
 Octa-Core
