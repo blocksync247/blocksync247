@@ -3,8 +3,11 @@
 🌱 Website: ​https://block-sync.com
 
 👯Twitter: https://twitter.com/blocksync247
+
 ⚡⚡MY HETZNER DEDICATED SERVER:⚡⚡
+
 ⚡1) SERVER 1
+
 💬 Intel® Xeon® W-2145
 Octa-Core
 Skylake W
@@ -37,6 +40,7 @@ Software RAID level optional
 📫Guaranteed Bandwidth: 1 Gbit/s
 
 📫Testnets Project I Participated in ?
+
 Ironfish, Sinso, Muon Network, Redbelly, Voi, Ar.io, Erbie, CESS, Subspace, Dymension, Meson Network, Sei, Celestia.....
 <!--
 **blocksync247/blocksync247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
