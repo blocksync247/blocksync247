@@ -1,4 +1,4 @@
-👋BlockSync is a Trusted PoS Validator | Node Provider
+👋 BlockSync is a Trusted PoS Validator | Node Provider 👋
 
 🌱 Website: ​https://block-sync.com
 
