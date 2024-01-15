@@ -1,5 +1,7 @@
 👋BlockSync is a Trusted PoS Validator | Node Provider
+
 🌱 Website: ​https://block-sync.com
+
 👯Twitter: https://twitter.com/blocksync247
 ⚡⚡MY HETZNER DEDICATED SERVER:⚡⚡
 ⚡1) SERVER 1
